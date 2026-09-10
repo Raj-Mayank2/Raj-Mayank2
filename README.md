@@ -11,11 +11,11 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 
 
 
-![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj-Mayank2&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Mayank2&layout=compact&theme=tokyonight)
 
 ## What I do
 
