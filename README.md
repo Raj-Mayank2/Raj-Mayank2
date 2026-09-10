@@ -3,7 +3,7 @@
 
 ## Full-Stack Engineer | Aspiring AI Engineer | Product-Minded Builder <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
-I have **20+ years of experience** building and modernizing digital products across media, fintech, e-commerce, SaaS, and agency environments.
+I have **great experience** of building and modernizing digital products across media, fintech, e-commerce, SaaS, and agency environments.
 
 I enjoy turning complex problems into **simple, reliable, and maintainable solutions**, while helping teams make better technical decisions.
 
@@ -19,7 +19,6 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 ## Technologies
 
 **Frontend:** React, Next.js, TypeScript  
-
 **Backend:** Node.js, FastAPI, Express JS
 <br/>
 **AI:** LLM, RAG, HuggingFace, Agentic AI
