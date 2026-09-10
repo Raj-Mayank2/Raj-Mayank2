@@ -19,7 +19,7 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 ## Technologies
 
 **Frontend:** React, Next.js, TypeScript  
-<br/>
+
 **Backend:** Node.js, FastAPI, Express JS
 <br/>
 **AI:** LLM, RAG, HuggingFace, Agentic AI
