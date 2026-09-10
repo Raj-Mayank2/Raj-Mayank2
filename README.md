@@ -1,7 +1,7 @@
 
 ### Hi there, I'm ✨ [Mayank Raj][website] ✨  👋 
 
-## Senior Full-Stack Engineer | Technical Leader | Product-Minded Builder <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## Full-Stack Engineer | Aspiring AI Engineer | Product-Minded Builder <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 I have **20+ years of experience** building and modernizing digital products across media, fintech, e-commerce, SaaS, and agency environments.
 
@@ -9,20 +9,18 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 
 ## What I do
 
-- 🧭 Technical leadership and architecture
+
 - 🏗 Full-stack product development
 - 🤝 Mentoring, collaboration, and code quality
 - 🚀 CI/CD, automation, and developer experience
-- 🛡 Security, privacy, and reliability
 - 🤖 AI-assisted development and internal tooling
-- 🧠 Product strategy and technical discovery
+
 
 ## Technologies
 
 **Frontend:** React, Next.js, TypeScript  
-**Backend:** Node.js, PHP, Laravel, WordPress, .NET  
-**Cloud & Delivery:** AWS, Cloudflare, CI/CD, Sentry, Raygun  
-**Security:** OAuth 2.0, JWT, OWASP, secure coding  
+**Backend:** Node.js, FastAPI, Express JS
+**AI:** LLM, RAG, HuggingFace, Agentic AI
 **Product:** UX, accessibility, performance, analytics
 
 ## My leadership approach
@@ -34,8 +32,6 @@ I am interested in opportunities combining:
 **Hands-on engineering · Architecture · Mentoring · Product thinking · Team enablement**
 
 ## Beyond software
-
-I am also a home builder, gardener, dancer, DJ, and community-minded creator.
 
 I enjoy building useful things, bringing people together, and making complex experiences feel simple.
 
