@@ -19,8 +19,11 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 ## Technologies
 
 **Frontend:** React, Next.js, TypeScript  
+<br/>
 **Backend:** Node.js, FastAPI, Express JS
+<br/>
 **AI:** LLM, RAG, HuggingFace, Agentic AI
+<br/>
 **Product:** UX, accessibility, performance, analytics
 
 ## My leadership approach
@@ -42,41 +45,10 @@ I enjoy building useful things, bringing people together, and making complex exp
 ## 🕹️ Connect with me
 
 [<img align="left" alt="AlfredDagenais.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AlfredDagenais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AlfredDagenais | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AlfredDagenais | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <br /><br /><br />
-
-## 📕 Latest Blog Posts on Kilukru DEV blog
-
-<a href="https://app.daily.dev/alfreddagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
-
-<!-- BLOG-KILUKRU-POST-LIST:START -->
-- [Redécouverte et émerveillement : le Single Action Controller de Laravel depuis sa version 8](https://www.kilukru.dev/redecouverte-et-emerveillement-le-single-action-controller-de-laravel-depuis-sa-version-8/)
-- [10 Façons de décourager les développeurs au travail](https://www.kilukru.dev/10-facons-de-decourager-les-developpeurs-au-travail/)
-- [Révolution SEO avec ChatGPT : Découvrez le Plugin Rapport Speedix pour des Analyses Intelligentes](https://www.kilukru.dev/revolution-seo-avec-chatgpt-decouvrez-le-plugin-rapport-speedix-pour-des-analyses-intelligentes/)
-- [Rapport Speedix et Kilukru : Votre Alliance pour une Optimisation SEO Accessible et Efficace](https://www.kilukru.dev/rapport-speedix-et-kilukru-votre-alliance-pour-une-optimisation-seo-accessible-et-efficace/)
-- [Un guide de communication client pour les développeurs et agences](https://www.kilukru.dev/un-guide-de-communication-client-pour-les-developpeurs-et-agences/)
-- [Quand la simplicité bat la complexité : Réflexions sur l’article de Dominic Gagnon](https://www.kilukru.dev/quand-la-simplicite-bat-la-complexite-reflexions-sur-larticle-de-dominic-gagnon/)
-- [Comment gérer plusieurs projets en tant que développeur](https://www.kilukru.dev/comment-gerer-plusieurs-projets-en-tant-que-developpeur/)
-- [Les 10 principes d’une bonne conception de site web en 2023](https://www.kilukru.dev/les-10-principes-dune-bonne-conception-de-site-web-en-2023/)
-- [Comment définir un projet réussi en 10 étapes](https://www.kilukru.dev/comment-definir-un-projet-reussi-en-10-etapes/)
-- [Conseils pour définir la portée d’un projet](https://www.kilukru.dev/conseils-pour-definir-la-portee-dun-projet/)
-<!-- BLOG-KILUKRU-POST-LIST:END -->
-
-## 📕 Latest Blog Posts on AlfredDagenais's blog
-
-<!-- BLOG-POST-LIST:START -->
-- [kilukru.dev – Tous mes articles de blogue](https://www.alfreddagenais.com/kilukru-dev-tous-mes-articles-de-blogue/)
-- [8 étapes pour réaliser un nouveau site web pas cher !](https://www.alfreddagenais.com/8-etapes-nouveau-site-web-pas-cher/)
-- [Les requêtes critiques](https://www.alfreddagenais.com/les-requetes-critiques/)
-- [Comment écrire des articles optimisés Search Engine Optimized dans WordPress](https://www.alfreddagenais.com/ecrire-articles-optimises-seo-wordpress/)
-- [Responsive Breakpoints – Une image responsive pour toutes les résolutions](https://www.alfreddagenais.com/responsive-breakpoints-image-responsive-toutes-resolutions/)
-<!-- BLOG-POST-LIST:END -->
-
-<br /><br />
 
 ## 🌏 Browser Support
 
@@ -93,20 +65,4 @@ Thanks! :heart:
 <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" />
 
 [website]: https://mayankraj12.netlify.app/
-[twitter]: https://twitter.com/ProgrammeurWeb
-[facebook]: https://facebook.com/AlfredDagenaisWeb/
-[instagram]: https://instagram.com/alfreddagenaisweb
-[linkedin]: https://linkedin.com/in/AlfredDagenais
-[websitekm]: https://KilukruMedia.com
-[websitemtp]: https://mangetespousses.com
-[paypal-donations]: https://paypal.me/AlfredDagenais
-[patreon]: https://www.patreon.com/alfreddagenais
-[buymeacoffee]: https://www.buymeacoffee.com/AlfredDagenais
-[Ko-Fi]: https://ko-fi.com/alfreddagenais
-[websitenftlove]: https://www.nftn.love
-[websitemtcovid]: https://montestcovid.ca
-[websitekilukrudev]: https://kilukru.dev
-[websiteappnlove]: https://appn.love
-[websitepausensport]: https://pausensport.com
-[websitehoroskopos]: https://rapidapi.com/alfreddagenais/api/horoskopos
-[websiteemojicodereview]: https://emojicodereview.dev
+[linkedin]: https://www.linkedin.com/in/mayankraj17/
