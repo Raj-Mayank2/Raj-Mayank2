@@ -9,6 +9,14 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 
 ![](https://komarev.com/ghpvc/?username=Raj-Mayank2)
 
+
+
+![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/[Raj-Mayank2]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
 ## What I do
 
 
