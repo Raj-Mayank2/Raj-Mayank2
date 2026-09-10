@@ -7,6 +7,8 @@ I have **great experience** of building and modernizing digital products across 
 
 I enjoy turning complex problems into **simple, reliable, and maintainable solutions**, while helping teams make better technical decisions.
 
+![](https://komarev.com/ghpvc/?username=Raj-Mayank2)
+
 ## What I do
 
 
