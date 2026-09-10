@@ -1,5 +1,5 @@
 
-### Hi there, I'm ✨ [Mayank Raj][https://mayankraj12.netlify.app/] ✨  👋 
+### Hi there, I'm ✨ [Mayank Raj][website] ✨  👋 
 
 ## Senior Full-Stack Engineer | Technical Leader | Product-Minded Builder <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
@@ -96,7 +96,7 @@ Thanks! :heart:
 
 <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" />
 
-[website]: https://AlfredDagenais.com
+[website]: https://mayankraj12.netlify.app/
 [twitter]: https://twitter.com/ProgrammeurWeb
 [facebook]: https://facebook.com/AlfredDagenaisWeb/
 [instagram]: https://instagram.com/alfreddagenaisweb
