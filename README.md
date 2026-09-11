@@ -13,11 +13,6 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raj-Mayank2&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## What I do
 
