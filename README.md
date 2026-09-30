@@ -32,6 +32,29 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 <br/>
 **Product:** UX, accessibility, performance, analytics
 
+
+
+  ---
+
+## `$ git log --oneline --graph`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Raj-Mayank2&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00CC33&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Mayank2&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raj-Mayank2&theme=terminal&background=0D1117&border=00FF41&stroke=00FF41&ring=00CC33&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00CC33&dates=888888&font=Fira+Code)](https://git.io/streak-stats)
+
+</div>
+  
+  ---
+
+
 ## My leadership approach
 
 I believe strong technical leadership is about creating clarity, making trade-offs visible, keeping solutions simple, and helping others take ownership.
