@@ -36,7 +36,7 @@ I enjoy turning complex problems into **simple, reliable, and maintainable solut
 
   ---
 
-## `$ git log --oneline --graph`
+## GIT LOG
 
 <div align="center">
 
